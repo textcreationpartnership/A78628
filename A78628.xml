@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties answer, by vvay of declaration to a printed paper, entituled, A declaration of both Houses of Parliament, in answer to His Majesties last message concerning the militia. Published by His Majesties command.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78628</idno>
+            <idno type="STC">Wing C2090</idno>
+            <idno type="STC">Thomason E148_13</idno>
+            <idno type="STC">ESTC R3595</idno>
+            <idno type="EEBO-CITATION">99872434</idno>
+            <idno type="PROQUEST">99872434</idno>
+            <idno type="VID">156695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156695)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E148[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties answer, by vvay of declaration to a printed paper, entituled, A declaration of both Houses of Parliament, in answer to His Majesties last message concerning the militia. Published by His Majesties command.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156695:1" rendition="simple:additions"/>
+            <p>His Majeſties ANSWER, BY VVAY OF DECLARATION To a PRINTED PAPER, ENTITULED, A Declaration of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, in Anſwer to His Majeſties laſt Meſſage concerning the <hi>Militia.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. 1642.</p>
+         </div>
+         <div type="royal_blazon">
+            <pb facs="tcp:156695:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156695:2"/>
+            <head>His MAjESTIES ANSVVER, BY WAY OF DECLARATION To a Printed Paper, intituled, A Declaration of both Houſes of Parliament, in Anſwer to His Majeſties laſt Meſſage concerning the <hi>Militia.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E very well underſtand how much it is below the high and Royall dignity (wherein God hath pla<g ref="char:EOLhyphen"/>ced Vs) to take notice, much more to trouble Our Self with anſwering thoſe many ſcanda<g ref="char:EOLhyphen"/>lous ſeditious Pamphlets and Printed Papers, which are ſcattered with ſuch great Licence tho<g ref="char:EOLhyphen"/>rowout the Kingdom (notwithſtanding Our ear<g ref="char:EOLhyphen"/>neſt deſire, ſo often in vain preſſed for a Reforma<g ref="char:EOLhyphen"/>tion) though We finde it evident, That the mindes
+<pb n="2" facs="tcp:156695:3"/>of many of Our weak Subjects have been, and ſtill are poiſoned by thoſe means, and that ſo gene<g ref="char:EOLhyphen"/>rall a Terrour hath poſſeſſed the mindes and hearts of all men, that whiles the Preſſes ſwarm (and every day produceth new Tracts againſt the eſtabliſhed Government of the Church and State) moſt men want the Courage or the Conſcience to write, or the opportunity and incouragement to publiſh ſuch compoſed ſober Animadverſions, as might either preſerve the mindes of our good Subiects from ſuch Infection, or reſtore and re<g ref="char:EOLhyphen"/>cover them when they are ſo infected: But We are contented to let Our Self fall to any Office that may undeceive Our People, and to take more pains this way by Our own Pen, then ever King hath done, when We finde any thing that ſeems to carry the reputation and authority of either, or both Houſes of Parliament, and will not have the ſame refuted or diſputed by common and vulgar Pens, till We are thorowly informed, whether thoſe Acts have in truth that Countenance and Warrant they pretend. Which regard of Ours We doubt not but in time will recover that due reverence (the abſence whereof We have too much reaſon to complain) to Our Perſon and Our Meſſages, which in all ages hath been paid (and no doubt is due) to the Crown of <hi>England.</hi>
+            </p>
+            <p>We have therefore taken notice of a Printed Paper, intituled, <hi>A Declaration of both Houſes of Parliament,</hi> in Anſwer to Our laſt Meſſage con<g ref="char:EOLhyphen"/>cerning the <hi>Militia,</hi> publiſhed by command; The which We are unwilling to beleeve (both for the
+<pb n="3" facs="tcp:156695:3"/>Matter of it, the Expreſſions in it, and the Man<g ref="char:EOLhyphen"/>ner of publiſhing it) can reſult from the conſent of both Houſes; Neither do We know by what lawfull Command ſuch uncomely, irreverent mention of Vs can be publiſhed to the World. And though Declarations of this kinde have of late (with too much boldneſſe) broken in upon Vs and the whole Kingdom, when one, or both Hou<g ref="char:EOLhyphen"/>ſes have thought fit to communicate their Coun<g ref="char:EOLhyphen"/>ſels and Reſolutions to the People, yet We are un<g ref="char:EOLhyphen"/>willing to beleeve, that ſuch a Declaration as this, ſhould be publiſhed in Anſwer to Our Meſ<g ref="char:EOLhyphen"/>ſage, without vouchſafing at leaſt to ſend it to Vs as their Anſwer; Their Buſineſſe for which they are met by Our Writ and Authoritie, being to Coun<g ref="char:EOLhyphen"/>ſell Vs for the good of Our People, not to write againſt Vs to Our People, and no conſent of Ours for their long continuing together, inabling them to do any thing, but what they were firſt ſummoned by Our Writ to do. At leaſt, We will beleeve, though miſunderſtanding and Iealouſie (the Iuſtice of God will overtake the Fomenters of that Iealouſie, and the Promoters and Contri<g ref="char:EOLhyphen"/>vers of that miſunderſtanding) might produce (to ſay no worſe) thoſe very untoward Expreſſions; that if thoſe Houſes had contrived that Declara<g ref="char:EOLhyphen"/>tion, as an Anſwer to Our Meſſage, they would have vouchſafed ſome Anſwer to the Queſtion pro<g ref="char:EOLhyphen"/>poſed in Ours, which We profeſſed, did and muſt evidently prevail over Our underſtanding; and in their wiſdom and gravity they would have been ſure to have ſtated the Matters of Fact, as (at
+<pb n="4" facs="tcp:156695:4"/>leaſt to ordinary underſtandings) might be un<g ref="char:EOLhyphen"/>queſtionable; Neither of which is done by that Declaration.</p>
+            <p>We deſire to know why We were by that Act abſolutely excluded from any Power or Authority in the execution of the <hi>Militia,</hi> and We muſt ap<g ref="char:EOLhyphen"/>peal to all the world, whether ſuch an attempt be not a greater, and juſter ground for Fear and Iea<g ref="char:EOLhyphen"/>louſie in Vs, then any one that is avowed for thoſe diſtructive Fears and Iealouſies, which are ſo publikely owned, almoſt to the ruine of the Kingdom. But We have been told that We muſt not be jealous of Our great Councell of both Houſes of Parliament. We are not, no more then they are of Vs their King, and hitherto they have not avowed any jealouſie of, or diſaffection to Our Perſon; imputed all to Our evil Councellours, to a Malignant party that are not of their mindes: So We do (and We do it from Our ſoul) profeſſe no Iealouſie of Our Parliament, but of ſome tur<g ref="char:EOLhyphen"/>bulent, ſeditious, and ambitious Natures, which (being not ſo cleerly diſcerned) may have an in<g ref="char:EOLhyphen"/>fluence even upon the Actions of both Houſes; And if this Declaration hath paſſed by ſuch con<g ref="char:EOLhyphen"/>ſent, (which We are not willing to beleeve) it is not impoſſible b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that the apprehenſion of ſuch Tumults, which have driven Vs from Our City of <hi>London</hi> for the ſafety of Our Perſon, may make ſuch an impreſſion in other men, (not able to re<g ref="char:EOLhyphen"/>move from the danger) to make them conſent, or not to own a diſſent in matters not agreeable to their conſcience or underſtanding.</p>
+            <pb n="5" facs="tcp:156695:4"/>
+            <p>We mentioned in that Our Anſwer Our diſ<g ref="char:EOLhyphen"/>like of the putting of their names out of the Bill whom before they recommended to Vs in their pretended Ordinance, and the leaving out by ſpe<g ref="char:EOLhyphen"/>ciall Proviſion the preſent Lord Major of <hi>London,</hi> to all which the Declaration affords no Anſwer, and therefore We cannot ſuppoſe it was intended for an Anſwer to that Our Meſſage, which who<g ref="char:EOLhyphen"/>ſoever looks upon, will finde to be in no degree anſwered by that Declaration.</p>
+            <p>But it informs all Our Subjects, after the mention, with what humility the Ordinance was prepared and preſented to Vs, (a matter very evi<g ref="char:EOLhyphen"/>dent in the Petitions and Meſſages concerning it) and Our refuſall to give Our conſent, not<g ref="char:EOLhyphen"/>withſtanding the ſeverall reaſons offered of the neceſſity thereof, for the ſecuring of Our Perſon, and the Peace and Safety of Our people, (whe<g ref="char:EOLhyphen"/>ther any ſuch Reaſons were given, the weight of them, and whether they were not clearly and can<g ref="char:EOLhyphen"/>didly anſwered by Vs, the world will eaſily judge) that they were at laſt neceſſitated to make an Or<g ref="char:EOLhyphen"/>dinance by Authority of both Houſes, to ſettle the <hi>Militia,</hi> warranted thereunto by the Fundamentall Laws of the Land: But if that Declaration had indeed intended to have anſwered Vs, it would have told Our good Subjects what thoſe Fun<g ref="char:EOLhyphen"/>damentall Laws of the Land are, and where to be found; And would at laſt have mentioned one Or<g ref="char:EOLhyphen"/>dinance from the firſt beginning of Parliaments to this preſent Parliament, which endeavoured to impoſe any thing upon the Subject without the
+<pb n="6" facs="tcp:156695:5"/>Kings conſent; for of ſuch, all the inquiry We can make could never produce Vs one inſtance. And if there be ſuch a ſecret of the Law, which hath lain hid from the beginning of the world to this time, and now is diſcovered to take away the iuſt Legall Power of the King, We wiſh there be not ſome other ſecret (to be diſcovered when they pleaſe) for the ruine and deſtruction of the Liberty of the Subject: For no doubt, if the Votes of doth Houſes have any ſuch Authority to make a new Law, it hath the ſame Authority to repeal the old, and then what will become of the long eſtabliſhed Rights and Liberties of the King and Subject, and particularly of <hi>Magna Charta,</hi> will be eaſily diſcerned by the moſt ordinary under<g ref="char:EOLhyphen"/>ſtandings.</p>
+            <p>It is true, We did (out of the tenderneſſe of the Conſtitution of the Kingdom, and care of the Law, which We are bound to defend, and being moſt aſ<g ref="char:EOLhyphen"/>ſured of the unjuſtifiableneſſe of the pretended Or<g ref="char:EOLhyphen"/>dinance) invite and deſire both Our Houſes of Parliament to ſettle whatſoever ſhould be fit of that nature, by Act of Parliament; But were We therefore obliged to paſſe whatſoever ſhould be brought to Vs of that kinde? We did ſay in Our Anſwer to the Petition of both Houſes, preſented to Vs at <hi>York</hi> the <hi>26.</hi> of March laſt (and We have ſaid the ſame in other Meſſages before) that We alwayes thought it neceſſary the buſineſſe of the <hi>Militia</hi> ſhould be ſetled, and that We never de<g ref="char:EOLhyphen"/>nied the thing, onely denied the way, and We ſay the ſame ſtill, ſince the many Diſputes, and Votes
+<pb n="7" facs="tcp:156695:5"/>upon Lords Lieutenants, and their Commiſſions (which were begun by Vs, or Our Father) had ſo diſcountenanced that Authority, which for ma<g ref="char:EOLhyphen"/>ny yeers together was happily looked upon with Reverence and Obedience by the People; We did, and do think it very neceſſary, that ſome wholeſome Law be provided for that buſineſſe; but We decla<g ref="char:EOLhyphen"/>red in Our Anſwer to the pretended Ordinance, We expected that that neceſſary Power ſhould be firſt Inveſted in Vs, before We conſented to tranſ<g ref="char:EOLhyphen"/>ferre it to other men: Neither could it ever be ima<g ref="char:EOLhyphen"/>gined, that we would conſent that a greater Pow<g ref="char:EOLhyphen"/>er ſhould be in the hands of a Subject, then We were thought worthy to be truſted with Our Self; And if it ſhall not be thought fit to make a new Act, or Declaration in this point, We doubt not but We ſhall be able to grant ſuch Commiſſions, which ſhall very Legally Enable thoſe We truſt to do all Offices for the Peace and Quiet of the Kingdom, if any Diſturbance ſhall happen.</p>
+            <p>But that Declaration ſaith, We were pleaſed to offer them a Bill ready drawn, and that they (to ex<g ref="char:EOLhyphen"/>preſſe their earneſt zeal to correſpond with Our de<g ref="char:EOLhyphen"/>ſire) did paſſe that Bill; yet all that Expreſſion of Affection and Loyaltie, all that earneſt deſire of theirs to comply with Vs, produced no better effect then an abſolute deniall, even of what by Our former Meſſages (as that Declaration conceives) We had promiſed; and ſo proceeds (under the pre<g ref="char:EOLhyphen"/>tence of mentioning evill and wicked Counſels) to cenſure and reproach Vs in a Dialect, that We are confident Our good Subjects will read with
+<pb n="8" facs="tcp:156695:6"/>much indignation on Our behalf: But ſure if that Declaration had paſſed the Examination of both Houſes of Parliament, they would never have affirmed that the Bill We refuſed to paſſe, was the ſame We ſent to them, or have thought that Our Meſſage wherein the difference and con<g ref="char:EOLhyphen"/>trariety between the two Bils is ſo particularly ſet down, would be anſwered with the bare averring them to be one and the ſame Bill; No more would they have declared (when Our Exceptions to the Ordinance, and the Bill are ſo notoriouſly known to all Our People) that care being taken to give ſatisfaction in all the particulars We had excepted againſt in the Ordinance, We had found new ex<g ref="char:EOLhyphen"/>ceptions to the Bill; And yet this very Declara<g ref="char:EOLhyphen"/>tion confeſſes, that Our Exception to the Ordi<g ref="char:EOLhyphen"/>nance was, that in the diſpoſing and execution thereof We were excluded. And was not this an ex<g ref="char:EOLhyphen"/>preſſe reaſon in Our Anſwer for Our refuſall of the Bill which this Declaration will needs con<g ref="char:EOLhyphen"/>fute? But the Power was no other then to ſup<g ref="char:EOLhyphen"/>preſſe Rebellion, Inſurrection, and forreign Inva<g ref="char:EOLhyphen"/>ſion, and the Perſons truſted no other then ſuch as were nominated by the great Councell of the King<g ref="char:EOLhyphen"/>dom, and aſſented to by Vs; and that Declaration aſks if that be too great a Power to truſt theſe per<g ref="char:EOLhyphen"/>ſons with? Indeed whiles ſo great Liberty is uſed in Voting and Declaring men to be enemies to the Common-wealth (an Engliſh phraſe We ſcarcely underſtand) and in cenſuring Men for their ſervice and attendance upon Our perſon, and in Our lawfull Commands, great heed muſt be
+<pb n="9" facs="tcp:156695:6"/>taken into what hands We commit ſuch a Power to ſuppreſſe Inſurrection and Rebellion. And if Inſurrection and Rebellion have found other defi<g ref="char:EOLhyphen"/>nitions then what the Law hath given them, We muſt be ſure that no lawfull Power ſhall juſtifie thoſe definitions; And if there be Learning found out to make Sir <hi>John Hothams</hi> taking Arms againſt Vs, and keeping Our Town and Fort from Vs, no Treaſon or Rebellion, We know not whether a new Diſcovery may not finde it Rebel<g ref="char:EOLhyphen"/>lion in Vs, to defend Our ſelf from ſuch Arms, and to endeavour to recover what is ſo taken from Vs: And therefore it concerns Vs (till the known Law of the Land be allowed to be Iudge between Vs) to take heed into what hands We commit ſuch Power: Beſides, can it be thought, that be<g ref="char:EOLhyphen"/>cauſe We are willing to truſt certain perſons, that We are obliged to truſt them in whatſoever they are willing to be truſted? We ſay, no private hands are fit for ſuch a Truſt, neither have We departed from any thing (in the leaſt degree) We offered or promiſed before, though We might with as much reaſon have withdrawn Our Truſt from ſome per<g ref="char:EOLhyphen"/>ſons We before had accepted, as they did from others whom they recommended. For the Power which We are charged to have committed to parti<g ref="char:EOLhyphen"/>cular perſons, for the ſpace of fifteen yeers by Our Commiſſions of Lieutenancie, it is notoriouſly known, that it was not a Power created by Vs, but continued very many yeers, and in the moſt happy times this Kingdom hath enjoyed (even thoſe of Our renowned Predeceſſors Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi>
+               <pb n="10" facs="tcp:156695:7"/>and Our Father of happy memory) and what ever Authority was granted by thoſe Com<g ref="char:EOLhyphen"/>miſſions which were kept in the old forms, the ſame was determinable at Our pleaſure, and We know not that they produced any of thoſe Calami<g ref="char:EOLhyphen"/>ties which might give Our good Subjects cauſe to be ſo weary of them, as to run the hazard of ſo much miſchief, as that Bill We refuſed might poſ<g ref="char:EOLhyphen"/>ſibly have produced.</p>
+            <p>For the Preſidents of former ages in the Com<g ref="char:EOLhyphen"/>miſſions of Array, We doubt not but when any ſuch have iſſued out, that the Kings conſent was alwayes obteined, and the Commiſſions determi<g ref="char:EOLhyphen"/>nable at His pleaſure, and then what the extent of power was, will be nothing applicable to this Caſe of the Ordinance.</p>
+            <p>But whether that Declaration hath refuted Our Reaſons for Our refuſall to paſſe the Bill or no, it hath reſolved and required all Perſons in authority thereby to put the Ordinance in preſent execution, and all others to obey it according to the fundamentall Lawes of the Land; But We whom God hath truſted to maintain and defend thoſe fundamentall Lawes (which We hope He will bleſſe to ſecure Vs) do declare that there is no legall power in either or both Houſes, upon any pretence whatſoever, without Our conſent, to command any part of the <hi>Militia</hi> of this Kingdom, nor hath the like ever been commanded by either or both Houſes ſince the firſt foundation of the Lawes of this Land; and that the execution of, or the obedience to that pretended Ordinance, is
+<pb n="11" facs="tcp:156695:7"/>againſt the fundamentall Lawes of the Land, againſt the liberty of the Subject, and the right of Parliaments, and a high crime in any that ſhall henceforth execute the ſame. And We do therefore charge and command all Our loving Subjects, of what degree or quality ſoever, upon their Allegi<g ref="char:EOLhyphen"/>ance, and as they tender the peace of this King<g ref="char:EOLhyphen"/>dom, from henceforth not to Muſter, Leavy or Ar<g ref="char:EOLhyphen"/>ray, or ſummon, or warn any of Our Trained Bands, to Riſe, Muſter or March by vertue or un<g ref="char:EOLhyphen"/>der Colour of that pretended Ordinance: And to this declaration and command of Ours, We expect and require a full ſubmiſſion and obedience from all Our loving Subjects upon their Allegiance, as they will anſwer the contrary at their perils, and as they tender the upholding of the true Pro<g ref="char:EOLhyphen"/>teſtant profeſſion, the ſafety of Our Per<g ref="char:EOLhyphen"/>ſon, and Our Royall Poſterity, the Peace and Being of this Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <pb facs="tcp:156695:8"/>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Robert Barker,</hi> Printer to the Kings moſt Excellent Majeſtie: and by the Aſsignes of <hi>John Bill.</hi> 1642.</p>
+            <pb facs="tcp:156695:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
